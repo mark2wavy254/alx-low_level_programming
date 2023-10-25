@@ -6,7 +6,7 @@ int actual_sqrt_recursion(int n, int i);
  * _sqrt_recursion - main function
  * @n : input
  *
- * Return: the natural square root of a given number 
+ * Return: the natural square root of a given number
  * passed through the function.
  */
 
